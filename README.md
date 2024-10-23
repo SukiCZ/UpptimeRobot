@@ -1,6 +1,6 @@
 # [📈 Live Status](https://SukiCZ.github.io/UpptimeRobot): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Jakub Boukal](suki.wtf), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Suki](suki.wtf), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/SukiCZ/UpptimeRobot/workflows/Uptime%20CI/badge.svg)](https://github.com/SukiCZ/UpptimeRobot/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/SukiCZ/UpptimeRobot/workflows/Response%20Time%20CI/badge.svg)](https://github.com/SukiCZ/UpptimeRobot/actions?query=workflow%3A%22Response+Time+CI%22)
