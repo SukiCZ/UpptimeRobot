@@ -22,9 +22,9 @@
     "url": "https://chameleon.suki.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/chameleon.suki.wtf.ico",
     "slug": "chameleon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 733,
     "timeMonth": 788,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 0
+    }
   },
   {
     "name": "Barré",
     "url": "https://barre.suki.wtf/api/status/",
     "icon": "https://icons.duckduckgo.com/ip3/barre.suki.wtf.ico",
     "slug": "barre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 718,
     "timeMonth": 770,
     "timeYear": 706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 0
+    }
   }
 ]
