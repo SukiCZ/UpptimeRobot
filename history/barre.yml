@@ -1,7 +1,7 @@
 url: https://barre.suki.wtf/api/status/
-status: down
-code: 521
-responseTime: 248
-lastUpdated: 2025-06-05T19:47:22.241Z
+status: up
+code: 200
+responseTime: 1402
+lastUpdated: 2025-06-05T19:56:21.276Z
 startTime: 2024-09-24T12:52:52.261Z
 generator: Upptime <https://github.com/upptime/upptime>
