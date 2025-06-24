@@ -1,7 +1,7 @@
 url: https://mhclinic.cz
-status: up
-code: 200
-responseTime: 937
-lastUpdated: 2025-06-23T23:03:54.228Z
+status: down
+code: 502
+responseTime: 633
+lastUpdated: 2025-06-24T13:37:21.478Z
 startTime: 2024-09-24T12:52:49.416Z
 generator: Upptime <https://github.com/upptime/upptime>
