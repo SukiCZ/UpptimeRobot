@@ -5,10 +5,12 @@ repo: UpptimeRobot # The name of this repository
 sites:
   - name: MH Clinic
     url: https://mhclinic.cz
-  - name: Chameleon
-    url: https://chameleon.suki.wtf
-  - name: Barré
-    url: https://barre.suki.wtf/api/status/
+  # - name: Chameleon
+  #   url: https://chameleon.suki.wtf
+  # - name: Barré
+  #   url: https://barre.suki.wtf/api/status/
+  - name: Posli Snadno
+    url: https://www.poslisnadno.cz/chci-poslat-/zadani-rozmeru/
 
 assignees: # Users to assign downtime issues (optional)
   - SukiCZ
