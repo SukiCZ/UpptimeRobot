@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 905,
-    "timeWeek": 832,
-    "timeMonth": 861,
-    "timeYear": 929,
+    "time": 917,
+    "timeDay": 908,
+    "timeWeek": 845,
+    "timeMonth": 866,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2025-06-24": 23
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.poslisnadno.cz.ico",
     "slug": "posli-snadno",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 3703,
-    "timeDay": 1135,
-    "timeWeek": 4237,
-    "timeMonth": 3703,
-    "timeYear": 3703,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 3483,
+    "timeDay": 1288,
+    "timeWeek": 4243,
+    "timeMonth": 3483,
+    "timeYear": 3483,
     "dailyMinutesDown": {
       "2026-02-23": 22
     }
