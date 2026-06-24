@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
-    "timeDay": 901,
-    "timeWeek": 869,
-    "timeMonth": 907,
+    "timeDay": 909,
+    "timeWeek": 836,
+    "timeMonth": 900,
     "timeYear": 920,
-    "dailyMinutesDown": {
-      "2025-06-24": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Posli Snadno",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.87%",
-    "time": 1570,
-    "timeDay": 1632,
-    "timeWeek": 1340,
-    "timeMonth": 1360,
-    "timeYear": 1570,
+    "time": 1569,
+    "timeDay": 1465,
+    "timeWeek": 1332,
+    "timeMonth": 1361,
+    "timeYear": 1569,
     "dailyMinutesDown": {
       "2026-02-23": 22,
       "2026-04-02": 27,
